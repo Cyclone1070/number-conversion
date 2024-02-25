@@ -18,4 +18,3 @@ def intToRom(int: int) -> str:
         if remain == 0:
             break
     return ans
-print(intToRom(984))
